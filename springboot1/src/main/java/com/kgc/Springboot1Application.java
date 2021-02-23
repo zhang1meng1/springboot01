@@ -8,6 +8,7 @@ import org.springframework.context.annotation.PropertySource;
 @PropertySource("classpath:/myconfig/myconfig.properties")
 public class Springboot1Application {
 //zm-sss
+    //master  ssss
     public static void main(String[] args) {
         SpringApplication.run(Springboot1Application.class, args);
     }
