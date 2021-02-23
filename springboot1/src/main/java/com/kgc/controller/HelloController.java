@@ -5,7 +5,7 @@ import com.kgc.pojo.Teacher;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
-
+//zm哈哈哈哈
 @RestController
 public class HelloController {
 
