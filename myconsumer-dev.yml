@@ -1,15 +1,6 @@
 server:
   port: 8002
-spring:
-  application:
-    name: mycomsumer
-  main:
-    allow-bean-definition-overriding: true
-  zipkin:
-    base-url: http://localhost:9411
-  sleuth:
-    sampler:
-      probability: 1.0
+
 
 eureka:
   client:
